@@ -1,0 +1,32 @@
+{
+  "name": "皮膚科専門医 一問一答",
+  "short_name": "皮膚科一問一答",
+  "description": "皮膚科専門医試験の分野別・一問一答（解説・図解・語呂合わせ付き）",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f2f8",
+  "theme_color": "#3b3a8c",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
